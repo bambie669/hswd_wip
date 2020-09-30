@@ -2,4 +2,4 @@
 Repo for Figma screenshots
 
 
-<img src="img/wip_anna.png>
+<img src="img/wip_anna.png">
